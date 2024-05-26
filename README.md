@@ -1,3 +1,8 @@
+
+If you connect to this repo on [idx.google.com ](https://idx.google.com/) you should be able to as I have committed the `.idx` folder as well.
+
+#### Everything below is a IDX default EeadME.
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
